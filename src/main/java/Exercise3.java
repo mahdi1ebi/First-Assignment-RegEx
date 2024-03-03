@@ -6,7 +6,7 @@ import java.util.regex.Pattern;
 public class Exercise3 {
 
     /*
-    implement the method below so that it extracts a URL from a String
+    implement the  method below so that it extracts a URL from a String
     I will write the basics for this one method, you will have to implement the other two methods from scratch
     */
 
